@@ -1,5 +1,5 @@
 # LintCode
-My Solutions to LintCode
+My Solutions to LintCode  
 这个仓库维护了我的 LintCode 题解 :blue_heart:  
 语言主要是以 C++ 为主，我本人非常喜欢这门语言 :sunny:  
 可以点击 [《Google 开源项目风格指南》 文档](https://zh-google-styleguide.readthedocs.io/en/latest/) 学习更多关于代码书写上的知识 :bar_chart:
