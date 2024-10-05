@@ -1,7 +1,7 @@
-# top-most EditorConfig file
 root = true
 
 # all files
 [*]
-indent_style = tab
+indent_mode = Spaces
 indent_size = 4
+line_wrap_mode = Soft Wrap
