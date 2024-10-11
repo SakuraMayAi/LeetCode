@@ -1,4 +1,4 @@
-# LintCode
+# LeetCode
 My Solutions to LeetCode  
 这个仓库维护了我的力扣题解 :blue_heart:  
 语言主要是以 C++ 为主，我本人非常喜欢这门语言 :sunny:  
