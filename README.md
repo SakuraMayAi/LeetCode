@@ -1,6 +1,6 @@
 # LeetCode
 My Solutions to LeetCode  
-这个仓库维护了我的力扣题解 :blue_heart:  
+这个仓库维护了我做过的力扣题 :blue_heart:  
 语言主要是以 C++ 为主，我本人非常喜欢这门语言 :sunny:  
 可以点击 [《Google 开源项目风格指南》 文档](https://zh-google-styleguide.readthedocs.io/en/latest/) 学习更多关于代码书写上的知识 :bar_chart:
 不论如何，希望这能帮到你 :blush:  
